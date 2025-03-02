@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm Nanfu Liu,a student enrolled in the BUPT-QMUL Joint Programme,majoring in Internet of Things Engineering.
+- I'm Nanfu Liu, a student enrolled in the BUPT-QMUL Joint Programme,majoring in Internet of Things Engineering.
 - My tech stack:
-  - C++,Java,Golang,Python,Swift,Typst(Perhaps haven't mastered them 100%, but can quickly get up to speed on related tasks based on project requirements).
+  - C++, Java, Golang, Python, Swift, Typst (Perhaps haven't mastered them 100%, but can quickly get up to speed on related tasks based on project requirements).
   - Have dabbled in Backend Development, Android/iOS app Development, and Deep Learning in my previous studies(at a beginner level, not an expert).
 - My current main focus of study: Deep Learning.
 - My blog: www.overturn.cn
