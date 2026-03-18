@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 - I'm Nanfu Liu, a student enrolled in the BUPT-QMUL Joint Programme, majoring in Internet of Things Engineering. <br>
-  (Liu Nanfu / 刘南府 is my commonly used alias. Feel free to address me by this name in both online and offline interactions.)
+  (Nanfu Liu / 刘南府 is my commonly used alias. Feel free to address me by this name in both online and offline interactions.)
 - My tech stack:
-  - C++, Java, Golang, Python, Swift, Typst (Perhaps haven't mastered them 100%, but can quickly get up to speed on related tasks based on project requirements).
-  - Have dabbled in Backend Development, Android/iOS App Development, and Deep Learning in my previous studies (at a beginner level, not an expert).
-- My current main focus of study: Deep Learning.
+  - Python, Java, C++, Golang, Swift (Sorted by proficiency)
+  - Have dabbled in Backend Development, Android/iOS App Development, and Deep Learning in my previous studies.
+- My current research interests include: RL for LLMs, Self-Evolving Agents.
 - My blog: www.overturn.cn
-- My contact details: liunanfu1992@overturn.cn
+- My contact details: liunanfu1992@gmail.com 
